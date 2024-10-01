@@ -1,0 +1,73 @@
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  color: #007bff;
+
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.iphone {
+  border: none;
+  padding: 10px;
+  margin-bottom: 100px;
+}
+
+.iphone a {
+  display: block;
+  height: 100%;
+}
+
+.iphone img {
+  max-width: 100%;
+  height: auto;
+}
+
+#main-img {
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.col-md-6 {
+  width: 50%;
+  float: none;
+}
+
+.btn-group button {
+  border-radius: 0;
+}
+
+.btn-primary {
+  border-radius: 0;
+  color: red;
+  background: black;
+  padding: 10px;
+}
+
+.btn-success {
+  border-radius: 0;
+  color: red;
+  background: black;
+  padding: 10px;
+}
+
+.panel {
+  margin-top: 20px;
+}
+
+.panel-title {
+  margin-top: 0;
+}
+
+.form-control {
+  border-radius: 0;
+}/*# sourceMappingURL=main.css.map */
